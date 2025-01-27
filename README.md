@@ -18,7 +18,7 @@ Este proyecto es una animación interactiva del protocolo BB84, desarrollado en 
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/animacion-bb84.git
+   git clone https://github.com/K1KOT3/BB84ProtocolAnimation.git
    ```
 2. Abre el archivo .pde en Processing.
 3. Ejecuta el programa para iniciar la simulación.
