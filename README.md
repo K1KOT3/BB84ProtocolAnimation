@@ -51,7 +51,7 @@ El programa se ha estructurado en varios pasos para representar el flujo del pro
 
 6. Detección de espías: Alice y Bob sacrifican parte de la clave y comparan los bits. Cualquier discrepancia significativa sugiere la presencia de un espía y esto se representa con los bits sacrificados y su estado de coincidencia.
 
-## Explicación del protocolo (por Alberto R.)
+## Explicación del protocolo (por [Alberto R.](https://github.com/ChemaElDeAida))
 
 Si quisiéremos explicar el protocolo como es de verdad, esta memoria ocuparía mucho más de lo previsto para un divulga ya que habría que explicar cómo funcionan realmente los qubits, propiedades de estos como la no clonación, el estado de superposición y el estado de entanglement, como se generan realmente las bases (por lo que habría que explicar matrices de rotación) y qué son los estado + y -  en los que se convierten los qubits 0 y 1 al pasar por una base diagonal (que no es más que girar la base que conocemos de toda la vida 45 grados haciendo uso de una matriz llamada Haddamard que es la fuente principal de entanglement en la computación cuántica). 
 
